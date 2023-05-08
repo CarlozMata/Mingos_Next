@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mingos_Next/static/css/main.073c9b0a.css",
+    "main.js": "/Mingos_Next/static/js/main.9ab14302.js",
+    "static/js/787.5b3f0844.chunk.js": "/Mingos_Next/static/js/787.5b3f0844.chunk.js",
+    "static/media/logo.svg": "/Mingos_Next/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Mingos_Next/index.html",
+    "main.073c9b0a.css.map": "/Mingos_Next/static/css/main.073c9b0a.css.map",
+    "main.9ab14302.js.map": "/Mingos_Next/static/js/main.9ab14302.js.map",
+    "787.5b3f0844.chunk.js.map": "/Mingos_Next/static/js/787.5b3f0844.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9ab14302.js"
+  ]
+}
